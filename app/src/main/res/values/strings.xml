@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Assignment1</string>
+    <string-array name="type">
+        <item>Grass</item>
+        <item>Fire</item>
+        <item>Water</item>
+        <item>Electric</item>
+        <item>Ghost</item>
+        <item>Normal</item>
+        <item>Psychic</item>
+        <item>Fighting</item>
+        <item>Rock</item>
+        <item>Dragon/Flying</item>
+    </string-array>
 </resources>
